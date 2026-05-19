@@ -1,4 +1,8 @@
-# 🚀 90DaysOfDevOps
+# 🚀 90DaysOfDevOps - My Journey With This Challenge
+> This is my journey documented through out the 90DaysOfDevOps online challenge.
+
+`Started on 19 May 2026`
+
 ### Learn • Build • Practice • Become Job-Ready
 
 Welcome to **90DaysOfDevOps**, a structured and hands-on DevOps challenge by **TrainWithShubham**.
