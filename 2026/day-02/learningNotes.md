@@ -56,7 +56,9 @@ macOS uses UNIX
 there are three parts
 
 ![linux](linux.png)
-ASK
+
+
+A.S.K.
 - Application - all the applications we add 
 - Shell - interface to communicate with kernel in human language.
 - Kernel - Core Heart of Linux
